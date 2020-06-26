@@ -1,0 +1,16 @@
+^renv$
+^renv\.lock$
+^LICENSE$
+.ignore
+.editorconfig
+.gitignore
+^.*\.Rproj$
+^\.Rproj\.user$
+^man-roxygen$
+^pkgdown$
+.github
+^\.ccache$
+^\.github$
+^tic\.R$
+^attic$
+^docs$
